@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(42, 93, 90);
+}
+.title{
+    width: 636px;
+    margin: 20px auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    color: #ffffff;
+font-size: 64px;
+font-weight: 700;
+text-align: justify;
+background: #311313;
+text-align: center;
+}
+.ota{
+    padding: 45px 52px;
+    width: 1000px;
+    margin: 0 auto;
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+
+}
+.bola{
+    background-color: rgb(31, 232, 183);
+padding-bottom: 40px;
+    color: rgb(0, 0, 0);
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: justify;
+padding: 50px;
+}
